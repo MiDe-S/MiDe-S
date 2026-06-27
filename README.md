@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋👋
+Software developer with experience in Java/Python/Angular/React.
+Graduated from MSU in 2023 with a BS in Computer Science. Worked at GM for three years.
 
-<!--
-**MiDe-S/MiDe-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### Amiibo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Amiibots](https://www.amiibots.com/)
+- 24/7 Livestream of amiibo matches
+- Python / React / PostgreSQL
+
+[Smash Amiibo Editor](https://github.com/MiDe-S/smash-amiibo-editor)
+- Bin file editor for Super Smash Bros Ultimate Amiibo
+- See bin research [here](https://docs.google.com/document/d/1L3c-QKr46ATTSxaicPHNFq5uW-uRytVViPRvdM93IQo/)
+- Python / Pysimplegui
+
+[Amiichives](https://github.com/MiDe-S/MiDe-S.github.io)
+- Website with info about amiibo scene / stats
+- Angular
+
+### Game Dev
+
+[Critter Catcher](https://github.com/MiDe-S/critter-catcher)
+- Pokemon inspired game
+- Godot / GDscript
+
+[Credits Godot](https://github.com/MiDe-S/Credits-Godot)
+- Godot addon for a credits scene for your game! 
+- Godot / Gdscript
+
+[Dungeon Crawler](https://github.com/MiDe-S/gameJamJune)
+- Binding of Issac inspired game I did for a game jam
+- Unity / C#
