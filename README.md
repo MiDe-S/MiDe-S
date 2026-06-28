@@ -15,10 +15,6 @@ Graduated from MSU in 2023 with a BS in Computer Science. Worked at GM for three
 - See bin research [here](https://docs.google.com/document/d/1L3c-QKr46ATTSxaicPHNFq5uW-uRytVViPRvdM93IQo/)
 - Python / Pysimplegui
 
-[Amiichives](https://github.com/MiDe-S/MiDe-S.github.io)
-- Website with info about amiibo scene / stats
-- Angular
-
 ### Game Dev
 
 [Critter Catcher](https://github.com/MiDe-S/critter-catcher)
@@ -28,7 +24,3 @@ Graduated from MSU in 2023 with a BS in Computer Science. Worked at GM for three
 [Credits Godot](https://github.com/MiDe-S/Credits-Godot)
 - Godot addon for a credits scene for your game! 
 - Godot / Gdscript
-
-[Dungeon Crawler](https://github.com/MiDe-S/gameJamJune)
-- Binding of Issac inspired game I did for a game jam
-- Unity / C#
